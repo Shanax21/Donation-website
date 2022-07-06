@@ -79,3 +79,199 @@ body {
     font-size: 20px;
     color: grey;
 }
+
+.middle-section {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.gojo {
+    font-size: 25px;
+    color: rgb(87, 86, 86);
+    text-align: center;
+    margin-left: 25px;
+    background-image: linear-gradient(rgb(201, 201, 201), rgb(201, 201, 201));
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px 50px;
+    border-radius: 5px;
+
+
+    margin-top: 30px;
+}
+
+.taka {
+    border: 3px solid red;
+    font-size: 25px;
+    color: red;
+    text-align: center;
+    margin-left: 25px;
+    background-image: linear-gradient(rgb(255, 133, 133), rgb(255, 133, 133));
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px 50px;
+    border-radius: 5px;
+}
+
+.lineup {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.mojo {
+    color: rgb(190, 190, 190);
+    font-size: 18px;
+
+
+}
+
+.underline {
+    padding-bottom: 5px;
+    border-bottom: 2px solid rgb(190, 190, 190);
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 45px;
+}
+
+.button {
+    text-align: center;
+}
+
+.button a {
+    margin-top: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(114, 19, 3));
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 90px;
+}
+
+.donate-plan {
+    text-align: center;
+
+}
+
+.secondlineplan {
+    margin-top: 170px;
+    font-size: 40px;
+}
+
+.What-we-do {
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.triple-box {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.box-format-1 {
+    margin-right: 50px;
+    background-image: linear-gradient(rgb(179, 224, 250), rgb(179, 224, 250));
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    text-align: left;
+    border-radius: 5px;
+    margin-bottom: 150px;
+}
+
+.text-subline1 {
+    color: grey;
+
+}
+
+.box-format-2 {
+    margin-right: 50px;
+    background-image: linear-gradient(rgb(240, 169, 163), rgb(240, 169, 163));
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 45px;
+    padding-bottom: 50px;
+    text-align: left;
+    border-radius: 5px;
+    margin-bottom: 150px;
+
+}
+
+.text-subline2 {
+    color: grey;
+}
+
+.box-format-3 {
+
+    background-image: linear-gradient(rgb(241, 247, 158), rgb(241, 247, 158));
+    margin-right: 0px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 65px;
+    padding-bottom: 50px;
+    text-align: left;
+    border-radius: 5px;
+    margin-bottom: 150px;
+}
+
+.text-subline3 {
+    color: grey;
+}
+
+.depends-on-you {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+
+
+}
+
+.id1 {
+    color: grey;
+    margin-right: 0px;
+    text-align: left;
+}
+
+.id2 {
+    color: grey;
+    margin-right: 0px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+
+.on-you-title {
+    font-size: 40px;
+}
+
+.image-part img {
+    width: 520px;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+.Written-part {
+    text-align: left;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+.contribution {
+    margin-top: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(114, 19, 3));
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 90px;
+
+}
